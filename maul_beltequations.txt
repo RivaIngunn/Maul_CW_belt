@@ -1,0 +1,7 @@
+﻿"buckle_thickness"= 8
+"visable_border"= 3
+"cutout_border"= 1.5
+"belt_thickness"= 9
+"belt_width"= 5
+"belt_placement"= 7.5
+"base_size"= 30

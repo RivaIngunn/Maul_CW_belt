@@ -1,0 +1,2 @@
+﻿"waist_length"= 400
+"waist_width"= 250
